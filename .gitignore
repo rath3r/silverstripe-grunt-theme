@@ -8,4 +8,4 @@ wwwroot/
 .DS_Store
 fonts/
 css/
-js/
+/js
